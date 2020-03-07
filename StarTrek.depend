@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1422194888 source:c:\users\jsw\google\startrek\main.cpp
+	<tchar.h>
+	<windows.h>
+	<stdio.h>
+
